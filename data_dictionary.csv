@@ -1,0 +1,17 @@
+Field,Data type,Non-null records,Missing records,Unique values
+age,int64,5000,0,62
+gender,object,5000,0,2
+bmi,float64,5000,0,248
+exercise_level,int64,5000,0,3
+smoking,int64,5000,0,2
+alcohol,int64,5000,0,2
+blood_pressure,int64,5000,0,90
+cholesterol,int64,5000,0,150
+glucose,int64,5000,0,130
+fatigue,int64,5000,0,2
+chest_pain,int64,5000,0,2
+dizziness,int64,5000,0,2
+heart_disease,int64,5000,0,2
+diabetes,int64,5000,0,2
+stroke,int64,5000,0,2
+health_risk_score,float64,5000,0,1
