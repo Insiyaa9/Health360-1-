@@ -4,8 +4,8 @@ import os
 app = Flask(__name__)
 
 # Updated with your specific Tableau Public URLs (converted to embed format)
-TABLEAU_DASHBOARD_URL = "https://public.tableau.com/views/Health360_17931255272280/HealthCareDashboard"
-TABLEAU_STORY_URL = "https://public.tableau.com/views/Health360_17931255272280/Story1"
+TABLEAU_DASHBOARD_URL = "https://public.tableau.com/views/Health360_17931255272280/HealthCareDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+TABLEAU_STORY_URL = "https://public.tableau.com/views/Health360_17931255272280/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
 
 @app.route('/')
 def index():
