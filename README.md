@@ -3,6 +3,10 @@
 ## Project overview
 Health360 is a browser-based analytics dashboard for exploring the supplied smart healthcare dataset. It presents descriptive population-level summaries, health outcomes, age distribution, lifestyle indicators, health measurements, and risk-score bands.
 
+## LINKS 
+  - web : https://health360-1-4ov6.onrender.com/
+  - story : https://public.tableau.com/app/profile/insiya.jabalpurwala/viz/Health360_17931255272280/Story1?publish=yes
+  - dashboard : https://public.tableau.com/app/profile/insiya.jabalpurwala/viz/Health360_17931255272280/HealthCareDashboard?publish=yes
 ## Included files
 - `website/index.html` — interactive website dashboard.
 - `data/smart_healthcare_dataset.csv` — source dataset supplied for the project.
